@@ -1,0 +1,8 @@
+# VisDrone person-only dataset for YOLO
+path: VisDronePerson_subset
+train: images/train
+val:   images/val
+test:  images/test
+
+names:
+  0: person
