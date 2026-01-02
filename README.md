@@ -22,7 +22,7 @@ This work is suitable for **surveillance, smart cities, traffic monitoring, and 
 
 ---
 
-![Detection Results](https://raw.githubusercontent.com/IamWei18/runs/detect/predict/0000272_01500_d_0000004.jpg)
+![Detection Results](https://raw.githubusercontent.com/IamWei18/Drone-Human-Detection/runs/detect/predict/0000272_01500_d_0000004.jpg)
 
 ---
 
