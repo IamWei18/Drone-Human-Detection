@@ -1,4 +1,4 @@
-# MS1 – Drone Human Detection 🚁👤
+# Drone Human Detection 🚁👤
 ### YOLOv11-Based Human Detection in Aerial Imagery
 
 [![YOLOv11](https://img.shields.io/badge/YOLO-v11-blue)](https://docs.ultralytics.com/)
@@ -19,6 +19,10 @@ The project builds a complete pipeline:
 - Perform inference and optional challenge submission formatting
 
 This work is suitable for **surveillance, smart cities, traffic monitoring, and UAV-based analytics**.
+
+---
+
+![Detection Results](https://raw.githubusercontent.com/IamWei18/runs/detect/predict/0000272_01500_d_0000004.jpg)
 
 ---
 
